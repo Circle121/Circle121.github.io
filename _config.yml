@@ -104,16 +104,10 @@ iLotus:
       url: /contact.html
       icon: fa fa-user
       class: none
-    - text: 博客源代码
-      url: https://github.com/Treri/jekyll-theme-iLotus
-      icon: fa fa-github-square
-      class: none
 
 #站点基础配置
-title: iLotus
-subTitle: Just another Jekyll blog.
-description: 这是 PIZn 的又一个博客，它是基于 Jekyll 搭建起来的。在这里，不仅仅是用来快速记录工作，学习，生活的一点一滴的地方，更是 PIZn 对 Jekyll 的学习和使用的一次有意义的实践。
-keywords: PIZn, GitHub, Jekyll, Plugins, Works, Archives, Quotes, Violet, css, html, javascript, wordpress, logo, design, geek
+title: 121，121，圈不住的人，一起奔向 121
+subTitle: 一起活出想象力，2020 年 12 月 1 日见
+description: 这个活动有太多的不确定：线上还是线下、北京还是南京还是上海还是洛杉矶、多少人参与、谁会到场……我们都不知道。我们正在创造。欢迎加入我们，一起创造，一起奔向 121。
+keywords: 121, 圈不住的人, 破圈, 想象力
 
-author:
-  name: PIZn
