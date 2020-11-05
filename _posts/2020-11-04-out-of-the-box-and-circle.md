@@ -8,6 +8,9 @@ categories: [破壁人]
 comments: true
 pid: 2020110401
 ---
+<p><img src="/uploads/quanbuzhu-hangzhou-20201101.jpeg"></p>
+图片摄于 2020 年 11 月 1 日，圈不住的人第一次执委会。摄影：周森Forest Chou
+
 欢迎成为破壁者
 
 我们在找寻一群圈不住的/活出想象力的人
